@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NexusAI Chatbot</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        #chatbox { width: 80%; max-width: 500px; height: 400px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px; margin: auto; text-align: left; }
+        #userInput { width: 70%; padding: 10px; margin-top: 10px; }
+        #sendBtn { padding: 10px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h2>Chat with NexusAI-Agent</h2>
+    <div id="chatbox"></div>
+    <input type="text" id="userInput" placeholder="Type your message...">
+    <button id="sendBtn">Send</button>
+
+    <script>
+        const chatbox = document.getElementById("chatbox");
+        const userInput = document.getElementById("userInput");
+        const sendBtn = document.getElementById("sendBtn");
+
+        async function sendMessage() {
+            let message = userInput.value;
+            if (!message) return;
+
+            // Display user message
+            chatbox.innerHTML += `<p><b>You:</b> ${message}</p>`;
+            userInput.value = "";
+
+            // Send request to NexusAI-Agent API
+            let response = await fetch("https://nexusai-agent.onrender.com/query/", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ query: message })
+            });
+
+            let data = await response.json();
+
+            // Display AI response
+            chatbox.innerHTML += `<p><b>NexusAI:</b> ${data.response}</p>`;
+            chatbox.scrollTop = chatbox.scrollHeight;
+        }
+
+        sendBtn.addEventListener("click", sendMessage);
+        userInput.addEventListener("keypress", (e) => { if (e.key === "Enter") sendMessage(); });
+    </script>
+</body>
+</html>
