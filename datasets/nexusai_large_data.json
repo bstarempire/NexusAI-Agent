@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 1,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.93
+        },
+        "timestamp": "2025-03-01 00:05:00"
+    },
+    {
+        "id": 2,
+        "user_input": "Draft an email",
+        "agent_response": "Email drafted",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.71
+        },
+        "timestamp": "2025-03-01 00:10:00"
+    },
+    {
+        "id": 3,
+        "user_input": "Fetch BTC price",
+        "agent_response": "DeFi projects: AAVE, UNI",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.87
+        },
+        "timestamp": "2025-03-01 00:15:00"
+    },
+    {
+        "id": 4,
+        "user_input": "Fetch BTC price",
+        "agent_response": "BTC: $65,000",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.96
+        },
+        "timestamp": "2025-03-01 00:20:00"
+    },
+    {
+        "id": 5,
+        "user_input": "Summarize this article",
+        "agent_response": "Top keywords: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.82
+        },
+        "timestamp": "2025-03-01 00:25:00"
+    },
+    {
+        "id": 6,
+        "user_input": "Debug this code",
+        "agent_response": "Fixed code: ...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.75
+        },
+        "timestamp": "2025-03-01 00:30:00"
+    },
+    {
+        "id": 7,
+        "user_input": "Generate a monthly report",
+        "agent_response": "Email drafted",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.8
+        },
+        "timestamp": "2025-03-01 00:35:00"
+    },
+    {
+        "id": 8,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "BTC: $65,000",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.71
+        },
+        "timestamp": "2025-03-01 00:40:00"
+    },
+    {
+        "id": 9,
+        "user_input": "Draft an email",
+        "agent_response": "Email drafted",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.96
+        },
+        "timestamp": "2025-03-01 00:45:00"
+    },
+    {
+        "id": 10,
+        "user_input": "Fetch BTC price",
+        "agent_response": "BTC: $65,000",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.71
+        },
+        "timestamp": "2025-03-01 00:50:00"
+    },
+    {
+        "id": 11,
+        "user_input": "Summarize this article",
+        "agent_response": "Here's a summary...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.72
+        },
+        "timestamp": "2025-03-01 00:55:00"
+    },
+    {
+        "id": 12,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "DeFi projects: AAVE, UNI",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.77
+        },
+        "timestamp": "2025-03-01 01:00:00"
+    },
+    {
+        "id": 13,
+        "user_input": "Summarize this article",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.77
+        },
+        "timestamp": "2025-03-01 01:05:00"
+    },
+    {
+        "id": 14,
+        "user_input": "Draft an email",
+        "agent_response": "Report generated",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.91
+        },
+        "timestamp": "2025-03-01 01:10:00"
+    },
+    {
+        "id": 15,
+        "user_input": "Debug this code",
+        "agent_response": "Your Solidity contract...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.82
+        },
+        "timestamp": "2025-03-01 01:15:00"
+    },
+    {
+        "id": 16,
+        "user_input": "Generate a Python script",
+        "agent_response": "Your Solidity contract...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.72
+        },
+        "timestamp": "2025-03-01 01:20:00"
+    },
+    {
+        "id": 17,
+        "user_input": "Draft an email",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.98
+        },
+        "timestamp": "2025-03-01 01:25:00"
+    },
+    {
+        "id": 18,
+        "user_input": "Summarize this article",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.78
+        },
+        "timestamp": "2025-03-01 01:30:00"
+    },
+    {
+        "id": 19,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.88
+        },
+        "timestamp": "2025-03-01 01:35:00"
+    },
+    {
+        "id": 20,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Report generated",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.8
+        },
+        "timestamp": "2025-03-01 01:40:00"
+    },
+    {
+        "id": 21,
+        "user_input": "Generate a monthly report",
+        "agent_response": "Report generated",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.86
+        },
+        "timestamp": "2025-03-01 01:45:00"
+    },
+    {
+        "id": 22,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.94
+        },
+        "timestamp": "2025-03-01 01:50:00"
+    },
+    {
+        "id": 23,
+        "user_input": "Debug this code",
+        "agent_response": "Fixed code: ...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.83
+        },
+        "timestamp": "2025-03-01 01:55:00"
+    },
+    {
+        "id": 24,
+        "user_input": "Summarize this article",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.95
+        },
+        "timestamp": "2025-03-01 02:00:00"
+    },
+    {
+        "id": 25,
+        "user_input": "List top DeFi projects",
+        "agent_response": "BTC: $65,000",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.98
+        },
+        "timestamp": "2025-03-01 02:05:00"
+    },
+    {
+        "id": 26,
+        "user_input": "Generate a Python script",
+        "agent_response": "Fixed code: ...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.94
+        },
+        "timestamp": "2025-03-01 02:10:00"
+    },
+    {
+        "id": 27,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "DeFi projects: AAVE, UNI",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.99
+        },
+        "timestamp": "2025-03-01 02:15:00"
+    },
+    {
+        "id": 28,
+        "user_input": "Generate a monthly report",
+        "agent_response": "Email drafted",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.75
+        },
+        "timestamp": "2025-03-01 02:20:00"
+    },
+    {
+        "id": 29,
+        "user_input": "Debug this code",
+        "agent_response": "Fixed code: ...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 1.0
+        },
+        "timestamp": "2025-03-01 02:25:00"
+    },
+    {
+        "id": 30,
+        "user_input": "Draft an email",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.71
+        },
+        "timestamp": "2025-03-01 02:30:00"
+    },
+    {
+        "id": 31,
+        "user_input": "Generate a Python script",
+        "agent_response": "Your Solidity contract...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.86
+        },
+        "timestamp": "2025-03-01 02:35:00"
+    },
+    {
+        "id": 32,
+        "user_input": "Debug this code",
+        "agent_response": "Fixed code: ...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.83
+        },
+        "timestamp": "2025-03-01 02:40:00"
+    },
+    {
+        "id": 33,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.71
+        },
+        "timestamp": "2025-03-01 02:45:00"
+    },
+    {
+        "id": 34,
+        "user_input": "Debug this code",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.9
+        },
+        "timestamp": "2025-03-01 02:50:00"
+    },
+    {
+        "id": 35,
+        "user_input": "Generate a Python script",
+        "agent_response": "Fixed code: ...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.91
+        },
+        "timestamp": "2025-03-01 02:55:00"
+    },
+    {
+        "id": 36,
+        "user_input": "Summarize this article",
+        "agent_response": "Here's a summary...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.81
+        },
+        "timestamp": "2025-03-01 03:00:00"
+    },
+    {
+        "id": 37,
+        "user_input": "Debug this code",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.98
+        },
+        "timestamp": "2025-03-01 03:05:00"
+    },
+    {
+        "id": 38,
+        "user_input": "Debug this code",
+        "agent_response": "Your Solidity contract...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.99
+        },
+        "timestamp": "2025-03-01 03:10:00"
+    },
+    {
+        "id": 39,
+        "user_input": "Generate a Python script",
+        "agent_response": "Your Solidity contract...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.91
+        },
+        "timestamp": "2025-03-01 03:15:00"
+    },
+    {
+        "id": 40,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "DeFi projects: AAVE, UNI",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.99
+        },
+        "timestamp": "2025-03-01 03:20:00"
+    },
+    {
+        "id": 41,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "BTC: $65,000",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.81
+        },
+        "timestamp": "2025-03-01 03:25:00"
+    },
+    {
+        "id": 42,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Your Solidity contract...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.82
+        },
+        "timestamp": "2025-03-01 03:30:00"
+    },
+    {
+        "id": 43,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.81
+        },
+        "timestamp": "2025-03-01 03:35:00"
+    },
+    {
+        "id": 44,
+        "user_input": "Debug this code",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.79
+        },
+        "timestamp": "2025-03-01 03:40:00"
+    },
+    {
+        "id": 45,
+        "user_input": "Debug this code",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.84
+        },
+        "timestamp": "2025-03-01 03:45:00"
+    },
+    {
+        "id": 46,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.71
+        },
+        "timestamp": "2025-03-01 03:50:00"
+    },
+    {
+        "id": 47,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Email drafted",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.86
+        },
+        "timestamp": "2025-03-01 03:55:00"
+    },
+    {
+        "id": 48,
+        "user_input": "Fetch BTC price",
+        "agent_response": "DeFi projects: AAVE, UNI",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.88
+        },
+        "timestamp": "2025-03-01 04:00:00"
+    },
+    {
+        "id": 49,
+        "user_input": "Extract keywords",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.94
+        },
+        "timestamp": "2025-03-01 04:05:00"
+    },
+    {
+        "id": 50,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Report generated",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.89
+        },
+        "timestamp": "2025-03-01 04:10:00"
+    },
+    {
+        "id": 51,
+        "user_input": "Generate a Python script",
+        "agent_response": "Fixed code: ...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.9
+        },
+        "timestamp": "2025-03-01 04:15:00"
+    },
+    {
+        "id": 52,
+        "user_input": "Draft an email",
+        "agent_response": "Email drafted",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.94
+        },
+        "timestamp": "2025-03-01 04:20:00"
+    },
+    {
+        "id": 53,
+        "user_input": "Extract keywords",
+        "agent_response": "Top keywords: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.72
+        },
+        "timestamp": "2025-03-01 04:25:00"
+    },
+    {
+        "id": 54,
+        "user_input": "Extract keywords",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.99
+        },
+        "timestamp": "2025-03-01 04:30:00"
+    },
+    {
+        "id": 55,
+        "user_input": "Generate a monthly report",
+        "agent_response": "Email drafted",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.78
+        },
+        "timestamp": "2025-03-01 04:35:00"
+    },
+    {
+        "id": 56,
+        "user_input": "Generate a monthly report",
+        "agent_response": "Report generated",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.99
+        },
+        "timestamp": "2025-03-01 04:40:00"
+    },
+    {
+        "id": 57,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Fixed code: ...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.89
+        },
+        "timestamp": "2025-03-01 04:45:00"
+    },
+    {
+        "id": 58,
+        "user_input": "Extract keywords",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.95
+        },
+        "timestamp": "2025-03-01 04:50:00"
+    },
+    {
+        "id": 59,
+        "user_input": "Summarize this article",
+        "agent_response": "Top keywords: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.97
+        },
+        "timestamp": "2025-03-01 04:55:00"
+    },
+    {
+        "id": 60,
+        "user_input": "Translate this to French",
+        "agent_response": "Here's a summary...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.76
+        },
+        "timestamp": "2025-03-01 05:00:00"
+    },
+    {
+        "id": 61,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.84
+        },
+        "timestamp": "2025-03-01 05:05:00"
+    },
+    {
+        "id": 62,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Email drafted",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.93
+        },
+        "timestamp": "2025-03-01 05:10:00"
+    },
+    {
+        "id": 63,
+        "user_input": "Summarize this article",
+        "agent_response": "Top keywords: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.83
+        },
+        "timestamp": "2025-03-01 05:15:00"
+    },
+    {
+        "id": 64,
+        "user_input": "Translate this to French",
+        "agent_response": "Here's a summary...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.78
+        },
+        "timestamp": "2025-03-01 05:20:00"
+    },
+    {
+        "id": 65,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.74
+        },
+        "timestamp": "2025-03-01 05:25:00"
+    },
+    {
+        "id": 66,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Report generated",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.91
+        },
+        "timestamp": "2025-03-01 05:30:00"
+    },
+    {
+        "id": 67,
+        "user_input": "List top DeFi projects",
+        "agent_response": "Ethereum is trending bullish",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.74
+        },
+        "timestamp": "2025-03-01 05:35:00"
+    },
+    {
+        "id": 68,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "Ethereum is trending bullish",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.71
+        },
+        "timestamp": "2025-03-01 05:40:00"
+    },
+    {
+        "id": 69,
+        "user_input": "Extract keywords",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.81
+        },
+        "timestamp": "2025-03-01 05:45:00"
+    },
+    {
+        "id": 70,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.72
+        },
+        "timestamp": "2025-03-01 05:50:00"
+    },
+    {
+        "id": 71,
+        "user_input": "Summarize this article",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.94
+        },
+        "timestamp": "2025-03-01 05:55:00"
+    },
+    {
+        "id": 72,
+        "user_input": "Extract keywords",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.82
+        },
+        "timestamp": "2025-03-01 06:00:00"
+    },
+    {
+        "id": 73,
+        "user_input": "Translate this to French",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.7
+        },
+        "timestamp": "2025-03-01 06:05:00"
+    },
+    {
+        "id": 74,
+        "user_input": "Fetch BTC price",
+        "agent_response": "Ethereum is trending bullish",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 1.0
+        },
+        "timestamp": "2025-03-01 06:10:00"
+    },
+    {
+        "id": 75,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.75
+        },
+        "timestamp": "2025-03-01 06:15:00"
+    },
+    {
+        "id": 76,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Here's a Python script...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.78
+        },
+        "timestamp": "2025-03-01 06:20:00"
+    },
+    {
+        "id": 77,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.9
+        },
+        "timestamp": "2025-03-01 06:25:00"
+    },
+    {
+        "id": 78,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "BTC: $65,000",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.94
+        },
+        "timestamp": "2025-03-01 06:30:00"
+    },
+    {
+        "id": 79,
+        "user_input": "Fetch BTC price",
+        "agent_response": "Ethereum is trending bullish",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.78
+        },
+        "timestamp": "2025-03-01 06:35:00"
+    },
+    {
+        "id": 80,
+        "user_input": "Generate a monthly report",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.99
+        },
+        "timestamp": "2025-03-01 06:40:00"
+    },
+    {
+        "id": 81,
+        "user_input": "Extract keywords",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.84
+        },
+        "timestamp": "2025-03-01 06:45:00"
+    },
+    {
+        "id": 82,
+        "user_input": "Fetch BTC price",
+        "agent_response": "Ethereum is trending bullish",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.86
+        },
+        "timestamp": "2025-03-01 06:50:00"
+    },
+    {
+        "id": 83,
+        "user_input": "Generate a monthly report",
+        "agent_response": "Report generated",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.8
+        },
+        "timestamp": "2025-03-01 06:55:00"
+    },
+    {
+        "id": 84,
+        "user_input": "Extract keywords",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.9
+        },
+        "timestamp": "2025-03-01 07:00:00"
+    },
+    {
+        "id": 85,
+        "user_input": "Write a Solidity contract",
+        "agent_response": "Fixed code: ...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.76
+        },
+        "timestamp": "2025-03-01 07:05:00"
+    },
+    {
+        "id": 86,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "Ethereum is trending bullish",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.72
+        },
+        "timestamp": "2025-03-01 07:10:00"
+    },
+    {
+        "id": 87,
+        "user_input": "Debug this code",
+        "agent_response": "Your Solidity contract...",
+        "task_category": "Code Generation",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.79
+        },
+        "timestamp": "2025-03-01 07:15:00"
+    },
+    {
+        "id": 88,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.78
+        },
+        "timestamp": "2025-03-01 07:20:00"
+    },
+    {
+        "id": 89,
+        "user_input": "Draft an email",
+        "agent_response": "Email drafted",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.77
+        },
+        "timestamp": "2025-03-01 07:25:00"
+    },
+    {
+        "id": 90,
+        "user_input": "Fetch BTC price",
+        "agent_response": "DeFi projects: AAVE, UNI",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.93
+        },
+        "timestamp": "2025-03-01 07:30:00"
+    },
+    {
+        "id": 91,
+        "user_input": "Fetch BTC price",
+        "agent_response": "Ethereum is trending bullish",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.92
+        },
+        "timestamp": "2025-03-01 07:35:00"
+    },
+    {
+        "id": 92,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "BTC: $65,000",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.81
+        },
+        "timestamp": "2025-03-01 07:40:00"
+    },
+    {
+        "id": 93,
+        "user_input": "Summarize this article",
+        "agent_response": "French translation: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.98
+        },
+        "timestamp": "2025-03-01 07:45:00"
+    },
+    {
+        "id": 94,
+        "user_input": "Schedule a meeting",
+        "agent_response": "Meeting scheduled",
+        "task_category": "Automation Tasks",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.76
+        },
+        "timestamp": "2025-03-01 07:50:00"
+    },
+    {
+        "id": 95,
+        "user_input": "List top DeFi projects",
+        "agent_response": "DeFi projects: AAVE, UNI",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.79
+        },
+        "timestamp": "2025-03-01 07:55:00"
+    },
+    {
+        "id": 96,
+        "user_input": "Extract keywords",
+        "agent_response": "Here's a summary...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.91
+        },
+        "timestamp": "2025-03-01 08:00:00"
+    },
+    {
+        "id": 97,
+        "user_input": "Extract keywords",
+        "agent_response": "Top keywords: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.79
+        },
+        "timestamp": "2025-03-01 08:05:00"
+    },
+    {
+        "id": 98,
+        "user_input": "Summarize this article",
+        "agent_response": "Here's a summary...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.93
+        },
+        "timestamp": "2025-03-01 08:10:00"
+    },
+    {
+        "id": 99,
+        "user_input": "Translate this to French",
+        "agent_response": "Top keywords: ...",
+        "task_category": "Text Processing",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 0.79
+        },
+        "timestamp": "2025-03-01 08:15:00"
+    },
+    {
+        "id": 100,
+        "user_input": "Analyze Ethereum trends",
+        "agent_response": "Ethereum is trending bullish",
+        "task_category": "Crypto & Finance",
+        "metadata": {
+            "source": "User Request",
+            "confidence_score": 1.0
+        },
+        "timestamp": "2025-03-01 08:20:00"
+    }
+]
